@@ -1,0 +1,15 @@
+name: 'Highlight Feature'
+description: 'Highlight content type and view.'
+type: module
+core: 8.x
+dependencies:
+  - hcpss_event_feature
+  - hcpss_news_feature
+  - hcpss_staff_feature
+  - hcpss_team_feature
+  - menu_ui
+  - node
+  - user
+  - views
+version: 8.x-1.0
+package: HCPSS
