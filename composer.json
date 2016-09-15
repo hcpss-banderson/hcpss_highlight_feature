@@ -1,10 +1,10 @@
 {
-  "name": "hcpss/hcpss_gallery_feature",
+  "name": "hcpss/hcpss_highlight_feature",
   "type": "drupal-module",
   "description": "Gallery content type with view and taxonomy.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://github.com/hcpss-banderson/hcpss_gallery_feature",
+  "homepage": "https://github.com/hcpss-banderson/hcpss_highlight_feature",
   "minimum-stability": "dev",
   "authors": [
     {
